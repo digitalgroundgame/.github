@@ -4,8 +4,8 @@ This is the Digital Ground Game Github organization! Here the developers collabo
 
 ## Projects
 
-- [DigitalGroundGame.org](https://digitalgroundgame.org/)
 - [The Pragmatic Papers](https://pragmaticpapers.com)
+- [DigitalGroundGame.org](https://digitalgroundgame.org/)
 - [Our Discord Bot](https://github.com/digitalgroundgame/digital-ground-game-discord-bot)
 - [Volunteer Management Software](https://github.com/digitalgroundgame/in-house-mgmt)
 
