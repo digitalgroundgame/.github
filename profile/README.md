@@ -11,7 +11,7 @@ This is the Digital Ground Game Github organization! Here the developers collabo
 
 ---
 
-[Join us on Discord 🔗](https://discord.com/invite/dggpol)
+[Join us on Discord 🔗](https://discord.gg/digitalgroundgame)
 
 Visit [The Pragmatic Papers](https://pragmaticpapers.com/)
 
