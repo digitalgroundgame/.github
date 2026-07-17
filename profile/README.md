@@ -6,8 +6,6 @@ This is the Digital Ground Game Github organization! Here the developers collabo
 
 - [The Pragmatic Papers](https://pragmaticpapers.com)
 - [DigitalGroundGame.org](https://digitalgroundgame.org/)
-- [Our Discord Bot](https://github.com/digitalgroundgame/digital-ground-game-discord-bot)
-- [Customer Relationship Management](https://github.com/digitalgroundgame/in-house-mgmt)
 
 ---
 
