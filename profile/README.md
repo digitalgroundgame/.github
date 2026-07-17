@@ -2,10 +2,10 @@
 
 This is the Digital Ground Game Github organization! Here the developers collaborate to maintain projects of the organization.
 
-## Projects
+## Public Sites
 
+- [digitalgroundgame.org](https://digitalgroundgame.org/)
 - [The Pragmatic Papers](https://pragmaticpapers.com)
-- [DigitalGroundGame.org](https://digitalgroundgame.org/)
 
 ---
 
